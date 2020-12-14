@@ -10,3 +10,6 @@ https://learn.datacamp.com/projects/history-of-lego
 ASL Recognition with Deep Learning
 Build a convolutional neural network to classify images of letters from American Sign Language
 https://learn.datacamp.com/projects/509
+
+A Visual History of Nobel Prize Winners. Explore a dataset from Kaggle containing a century's worth of Nobel Laureates.
+https://projects.datacamp.com/projects/441
